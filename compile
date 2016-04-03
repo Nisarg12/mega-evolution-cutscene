@@ -1,0 +1,2 @@
+python scripts\\build
+python scripts\\insert --debug
